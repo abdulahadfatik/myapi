@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "E:\\Faisal Data\\Applivity Projects\\AbdulAhadFatik Work\\myapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "E:\\Faisal Data\\Applivity Projects\\AbdulAhadFatik Work\\myapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "E:\\Faisal Data\\Applivity Projects\\AbdulAhadFatik Work\\myapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\abdul\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "E:\\Faisal Data\\Applivity Projects\\AbdulAhadFatik Work\\myapi\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Faisal\\.nuget\\packages\\",
+        "outputPath": "E:\\Faisal Data\\Applivity Projects\\AbdulAhadFatik Work\\myapi\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Faisal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
